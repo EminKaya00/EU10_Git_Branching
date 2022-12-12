@@ -7,5 +7,7 @@ public class TC001 {
         System.out.println("World");
 
         System.out.println("Perfect day");
+
+        System.out.println("Still awake");
     }
 }
