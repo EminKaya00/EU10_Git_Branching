@@ -5,5 +5,7 @@ public class TC001 {
         System.out.println("Hello");
 
         System.out.println("World");
+
+        System.out.println("Perfect day");
     }
 }
